@@ -1,0 +1,322 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "poppins", sans-serif;
+}
+section{
+    width: 100%;
+}
+input{
+    height: 8vh;
+    width: 35vw;
+    border-radius: 10px;
+    border: none;
+}
+body{
+    height: 100vh;
+    width: 100vh;
+}
+p{
+    font-family: "poppins";
+}
+body{
+background-color: #7e007e;
+
+}
+#registrarbtn{
+    text-decoration: none;
+    color: #000;
+}
+#logo img{
+    width: 40vw;
+    height: 15vh;
+    text-align: center;
+}
+#img-logo{
+    text-align: center;
+    margin-left: 50%;
+}
+.slogan-txt{
+    text-align: center;
+    color: #fff;
+}
+#bg-register{
+background-color: #8D8579;
+margin-top: 5%;
+margin-left: 400px;
+text-align: center;
+align-items: center;
+border-radius: 10px;
+height: 70vh;
+width: 50vw;
+}
+.login-txt{
+    margin-top: 3%;
+    margin-left: -63%;
+}
+#login1-txt{
+    margin-left: -54%;
+}
+#login2-txt{
+    margin-left: -58%;
+}
+#tenho-conta{
+margin-left: -50%;
+text-decoration: none;
+color: #000;
+}
+button{
+    height: 4vh;
+    width: 10vw;
+    background-color: #7e007e;
+    border-radius: 5px;
+    border: none;
+}
+#criar-conta{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.btn-logar{
+    margin-top: 1%;
+    border: none;
+    
+}
+#btn-logar-link{
+    text-decoration: none;
+    color: #000;
+}
+#bg-login{
+    background-color: #8D8579;
+    margin-top: 10%;
+    margin-left: 350px;
+    text-align: center;
+    align-items: center;    
+    border-radius: 10px;
+    height: 50vh;
+    width: 50vw;
+}
+
+#bg-criarentrar{
+    background-color: #8D8579;
+    margin-top: 30%;
+    margin-left: 60%;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    height: 25vh;
+    width: 40vw;
+}
+#title-criar{
+    font-size: 3em;
+}
+#btn-entrar{
+    height: 6vh;
+    width: 30vw;
+    background-color: #ffffff;
+    color: #000;
+    border-radius: 5px;
+    border: none;
+    margin-top: 5%;
+    text-decoration: none;
+}
+#link-btn-entrar{
+    text-decoration: none;
+    color: #000;
+}
+#link-btn-criar{
+    text-decoration: none;
+    color: #000;
+}
+#bg-senha{
+    background-color: #8D8579;
+    margin-top: 10%;
+    margin-left: 350px;
+    text-align: center;    
+    border-radius: 10px;
+    height: 40vh;
+    width: 50vw;
+}
+#senha{
+    border: none;
+}
+#bg-salapublica{
+    background-color: #8D8579;
+    margin-top: 15%;
+    margin-left: 350px;
+    text-align: center;    
+    border-radius: 10px;
+    height: 40vh;
+    width: 50vw;
+}
+#btn-criar{
+    margin-top: 5%;
+    height: 5vh;
+    width: 15vw;
+    background-color: #7e007e;
+    border-radius: 5px;
+    border: none;
+}
+#senha-link{
+    text-decoration: none;
+    color: #000;
+}
+#senha-title{
+    font-size: 4em;
+}
+#bg-salaprivada{
+    background-color: #8D8579;
+    margin-top: 15%;
+    margin-left: 350px;
+    text-align: center;    
+    border-radius: 10px;
+    height: 55vh;
+    width: 50vw;
+}
+#btn-salapub{
+    height: 6vh;
+    width: 30vw;
+    background-color: #ffffff;
+    color: #000;
+    border-radius: 5px;
+    border: none;
+    margin-top: 5%;
+    text-decoration: none;
+}
+#btn-salapriv{
+    height: 6vh;
+    width: 30vw;
+    background-color: #ffffff;
+    color: #000;
+    border-radius: 5px;
+    border: none;
+    margin-top: 5%;
+    text-decoration: none;
+}
+#linksala-pub{
+    text-decoration: none;
+    color: #000;    
+}
+#bg-salas{
+    background-color: #8D8579;
+    margin-top: 15%;
+    margin-left: 280px;
+    justify-content: center;
+    border-radius: 10px;
+    height: 60vh;
+    width: 60vw;
+}
+.img-sala{
+    width:40px ;
+    height:40px ;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.img-sala img{
+    width:100% ;
+    height:100% ;
+}
+.salas{
+    height: 8vh;
+    width: 40vw;
+    border-radius: 5px;
+    border: none;
+    background-color: #fff;
+    margin-top: 20px;
+    display: flex;
+    margin-left: 130px;
+    padding: 0;
+}
+.nome-sala{
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 2em;
+    justify-content: center;
+    
+}
+#link-nomesala{
+    text-decoration: none;
+    color: #000;
+}
+#btn-addsala{
+    background-color: #fff;
+    margin-left: 10px;
+    height: 30px;
+    width: 80px;
+}
+#plus{
+    height: 20px;
+    width: 20px;
+}
+#texto{
+    font-size: 3em;
+    font-weight: bold;
+    font-family: "poppins";
+    text-align: center;
+}
+#linkcriarsala{
+text-decoration: none;
+color: #000;
+}
+#bg-chat{
+    background-color: #8D8579;
+    margin-top: 15%;
+    text-align: center; 
+    margin-left: 50px;   
+    border-radius: 10px;
+    height: 80vh;
+    width: 90vw;    
+}
+#titulosala{
+    font-weight: bold;
+    font-size: 3em;
+}
+#divmensagem1{
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 30vw;
+    height: 10vh;
+    margin-top: 2%;
+}
+#divmensagem2{
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 1px;
+    width: 20vw;
+    height: 10vh;
+    margin-top: 2%;
+}
+#divmensagem3{
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 1px;
+    width: 30vw;
+    height: 6vh;
+    margin-top: 2%;
+}
+#divmensagem4{
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 1px;
+    width: 30vw;
+    height: 6vh;
+    margin-top: 2%;
+}
+#inputmsg{
+    margin-top: 8%;
+}
+#input{
+    width: 80vw;
+}
+#enviarmsg{
+    margin-left: 1%;
+    width: 6vw;
+    height: 7.5vh;
+    cursor: pointer;
+}
+#img-enviar{
+    width:20px ;
+    height:20px ;
+}
